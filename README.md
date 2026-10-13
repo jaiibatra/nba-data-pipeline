@@ -50,7 +50,3 @@ If a few teams print `Read timed out`, the NBA's servers are just slow. Re-run t
 ## Limitations
 
 Currently loads only the 2023-24 season. Stats are season totals, not per-game averages.
-
-## Author
-
-Jai Batra: [GitHub](https://github.com/jaiibatra) | [LinkedIn](http://www.linkedin.com/in/jai-batra-69675a402)
